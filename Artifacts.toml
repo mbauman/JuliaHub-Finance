@@ -1,0 +1,1439 @@
+[AUDJPY-2016-01]
+git-tree-sha1 = "4385cd903eea50fa48f6f4b38178b221cc8ccfc9"
+lazy = true
+
+    [[AUDJPY-2016-01.download]]
+    sha256 = "b6da7a3299233bbf4f3ecd3441506f1d65a72fda2ef67fa6dc618a41d9e04ee4"
+    url = "https://truefx-data.s3.amazonaws.com/AUDJPY-2016-01.tar.gz"
+
+[AUDJPY-2016-02]
+git-tree-sha1 = "19bf599ad4cfe11f9bb4f49d9de2b85d7bbdc1d7"
+lazy = true
+
+    [[AUDJPY-2016-02.download]]
+    sha256 = "4bec409a8d1406a9655d52f535b10a9d4130323a1d6575841a387cdf220febb8"
+    url = "https://truefx-data.s3.amazonaws.com/AUDJPY-2016-02.tar.gz"
+
+[AUDJPY-2016-03]
+git-tree-sha1 = "6ef627d69cbe3c1444aec923013112f082cac821"
+lazy = true
+
+    [[AUDJPY-2016-03.download]]
+    sha256 = "51c966b4fcb66925b894b90ca3085807e5a3c796eb1947e1834e2aa9032eb376"
+    url = "https://truefx-data.s3.amazonaws.com/AUDJPY-2016-03.tar.gz"
+
+[AUDJPY-2016-04]
+git-tree-sha1 = "3173b4f0b365125625473aadd08c1b16abac7df5"
+lazy = true
+
+    [[AUDJPY-2016-04.download]]
+    sha256 = "d686a5d44755f199757ed07e7a58573e05dc40a3b6582c3cfa4d52bfa69ff6df"
+    url = "https://truefx-data.s3.amazonaws.com/AUDJPY-2016-04.tar.gz"
+
+[AUDJPY-2016-05]
+git-tree-sha1 = "8bb8dee49f8d5d793c13e30bc539fb365816880d"
+lazy = true
+
+    [[AUDJPY-2016-05.download]]
+    sha256 = "0bbbf1e22e7efb1b489512811a36bcdeb32ecee2e17a3d2346ff0130af1a11da"
+    url = "https://truefx-data.s3.amazonaws.com/AUDJPY-2016-05.tar.gz"
+
+[AUDJPY-2016-06]
+git-tree-sha1 = "cb4966d7a039da2b4c03164bcf529318c345a6bb"
+lazy = true
+
+    [[AUDJPY-2016-06.download]]
+    sha256 = "db110045b82c04c7adfc8b1277b393ff6978f912afc063f80190cb642941703b"
+    url = "https://truefx-data.s3.amazonaws.com/AUDJPY-2016-06.tar.gz"
+
+[AUDJPY-2016-07]
+git-tree-sha1 = "f838c7cf905721a5ccea18232e9ea823482827cc"
+lazy = true
+
+    [[AUDJPY-2016-07.download]]
+    sha256 = "7d4ae7a46154a3da324536840b495bb8c5ab9f773e4f0b1f890e866a40acde3f"
+    url = "https://truefx-data.s3.amazonaws.com/AUDJPY-2016-07.tar.gz"
+
+[AUDJPY-2016-08]
+git-tree-sha1 = "a2eb7f0e948b91b136693dd786169235d15a5986"
+lazy = true
+
+    [[AUDJPY-2016-08.download]]
+    sha256 = "9b089853c12adf88d32f2cf567da1e6db0fb670ef0c83f5b0a838c39d4ab3b96"
+    url = "https://truefx-data.s3.amazonaws.com/AUDJPY-2016-08.tar.gz"
+
+[AUDJPY-2016-09]
+git-tree-sha1 = "799b41e47054d1ed6e0635e95292467c2a248276"
+lazy = true
+
+    [[AUDJPY-2016-09.download]]
+    sha256 = "126b0ab12dcddf36c3906c59fac130bc2ae5b18e2bdfcaf1f8aa0fbb71719bb2"
+    url = "https://truefx-data.s3.amazonaws.com/AUDJPY-2016-09.tar.gz"
+
+[AUDJPY-2016-10]
+git-tree-sha1 = "20c15b4f1bd286e89ef34f5f3993ea2d254b4442"
+lazy = true
+
+    [[AUDJPY-2016-10.download]]
+    sha256 = "62f70ed19e862716829662d99d81b306a0b1dd2605e58ff7891f83e56fc148a0"
+    url = "https://truefx-data.s3.amazonaws.com/AUDJPY-2016-10.tar.gz"
+
+[AUDJPY-2016-11]
+git-tree-sha1 = "e44052c4ff18030014a450d2f5d9c2ba74510e76"
+lazy = true
+
+    [[AUDJPY-2016-11.download]]
+    sha256 = "8d7ef0599037ec68db6ed08fdc345dc96a0fa0e574f28fa8dfc156000e8c80c8"
+    url = "https://truefx-data.s3.amazonaws.com/AUDJPY-2016-11.tar.gz"
+
+[AUDJPY-2016-12]
+git-tree-sha1 = "0934c06244657303673e1df6a816b7550f15c25b"
+lazy = true
+
+    [[AUDJPY-2016-12.download]]
+    sha256 = "3f5b7da33c85a344eea7dbc33294be827ca13fe85dc4eee66c8c12be893042de"
+    url = "https://truefx-data.s3.amazonaws.com/AUDJPY-2016-12.tar.gz"
+
+[AUDNZD-2016-01]
+git-tree-sha1 = "a7e0ccc68e587146bebb4881d9c76dd1ea659cff"
+lazy = true
+
+    [[AUDNZD-2016-01.download]]
+    sha256 = "fda1128f4e8571cccb7883651b36f0619caf48f0c69b346f7fb0a310b4412b05"
+    url = "https://truefx-data.s3.amazonaws.com/AUDNZD-2016-01.tar.gz"
+
+[AUDNZD-2016-02]
+git-tree-sha1 = "5b4d13211f3c50db1bb89775f602220b7a4b4ad1"
+lazy = true
+
+    [[AUDNZD-2016-02.download]]
+    sha256 = "288dff24053d08cd5241326e867dee31ee25b7a1c62dbe4b2f6cbbcc9aafa2f9"
+    url = "https://truefx-data.s3.amazonaws.com/AUDNZD-2016-02.tar.gz"
+
+[AUDNZD-2016-03]
+git-tree-sha1 = "d6274db97f696717d3db0bd5fe825c0a53561a79"
+lazy = true
+
+    [[AUDNZD-2016-03.download]]
+    sha256 = "32fed785ff29f78c99a19768fceb8d0c9e66b3b53cda4738cda3d8fb04e757a6"
+    url = "https://truefx-data.s3.amazonaws.com/AUDNZD-2016-03.tar.gz"
+
+[AUDNZD-2016-04]
+git-tree-sha1 = "a0a14f14df62f35b484b9e56c68f8863ad9161bf"
+lazy = true
+
+    [[AUDNZD-2016-04.download]]
+    sha256 = "cf76b479efb36c910f5e76d38462ffbff9c702ed6c294399745015bcb8960094"
+    url = "https://truefx-data.s3.amazonaws.com/AUDNZD-2016-04.tar.gz"
+
+[AUDNZD-2016-05]
+git-tree-sha1 = "12e9c0b71719f95ac6b88606cb9b978887799582"
+lazy = true
+
+    [[AUDNZD-2016-05.download]]
+    sha256 = "614214465f710a9a23cdf9a7675b40bdbf212001b87a0661ff180bfa7ebdf3ef"
+    url = "https://truefx-data.s3.amazonaws.com/AUDNZD-2016-05.tar.gz"
+
+[AUDNZD-2016-06]
+git-tree-sha1 = "3cf104f892c37386e52ae2fc575794ea9578bb51"
+lazy = true
+
+    [[AUDNZD-2016-06.download]]
+    sha256 = "dbd5eec4e1d4b56275a8b1356b733a27b757677e0782ab350bbf4a6d20601827"
+    url = "https://truefx-data.s3.amazonaws.com/AUDNZD-2016-06.tar.gz"
+
+[AUDNZD-2016-07]
+git-tree-sha1 = "5ebad6597aa672c5a92a0f2daeeb6c05c9d2701e"
+lazy = true
+
+    [[AUDNZD-2016-07.download]]
+    sha256 = "4d50a67b13f9ab973226bec92c393767a07eff48d18620ae32476a80e1edf082"
+    url = "https://truefx-data.s3.amazonaws.com/AUDNZD-2016-07.tar.gz"
+
+[AUDNZD-2016-08]
+git-tree-sha1 = "67ff1ce7f82e561a878cb159a7ef6903612cf152"
+lazy = true
+
+    [[AUDNZD-2016-08.download]]
+    sha256 = "5f4bf95584b7537b24f1c4bbd2b292989ee1bb405b98d462af1fdd2837d064b7"
+    url = "https://truefx-data.s3.amazonaws.com/AUDNZD-2016-08.tar.gz"
+
+[AUDNZD-2016-09]
+git-tree-sha1 = "384ea28b50eea214c905dd9984adc4536afb1d1d"
+lazy = true
+
+    [[AUDNZD-2016-09.download]]
+    sha256 = "e5b44a14d4e67a0d2f2ed3c1463a57757087ccf5b1bd6a1b5b0868ea555e8dcb"
+    url = "https://truefx-data.s3.amazonaws.com/AUDNZD-2016-09.tar.gz"
+
+[AUDNZD-2016-10]
+git-tree-sha1 = "0ee4627a131309c379818de790ee7fcce61b9fd6"
+lazy = true
+
+    [[AUDNZD-2016-10.download]]
+    sha256 = "07e2b9bc9ea63a9ecde09cb49bfd224c42b783a4cc68d8b359f65c3759cb0ece"
+    url = "https://truefx-data.s3.amazonaws.com/AUDNZD-2016-10.tar.gz"
+
+[AUDNZD-2016-11]
+git-tree-sha1 = "73561409e8a6a97dec062045d554d7c16813f537"
+lazy = true
+
+    [[AUDNZD-2016-11.download]]
+    sha256 = "2ea74e4969ff04901015fa448b42976b526495983d27b3d3be70cf9864246956"
+    url = "https://truefx-data.s3.amazonaws.com/AUDNZD-2016-11.tar.gz"
+
+[AUDNZD-2016-12]
+git-tree-sha1 = "135f900ade0eb661616cb69978f3ddf832c39401"
+lazy = true
+
+    [[AUDNZD-2016-12.download]]
+    sha256 = "b7902cffa1109e825f67547777dd6f7e61b40d37fa86909ed13eecb396715da2"
+    url = "https://truefx-data.s3.amazonaws.com/AUDNZD-2016-12.tar.gz"
+
+[AUDUSD-2016-01]
+git-tree-sha1 = "8e7e16221f72e38c1913fcfc751a87e55c6f895b"
+lazy = true
+
+    [[AUDUSD-2016-01.download]]
+    sha256 = "a6572a71126dfe1a98413143e4dbdf4bd3b0e67403909bfabf3307922904cf73"
+    url = "https://truefx-data.s3.amazonaws.com/AUDUSD-2016-01.tar.gz"
+
+[AUDUSD-2016-02]
+git-tree-sha1 = "dde945d3408a2e2f6223d18c55fdb60d7830fde1"
+lazy = true
+
+    [[AUDUSD-2016-02.download]]
+    sha256 = "219a8346ddd56173189ac6f369eaeb3d829742b6ac558cb125b9906764f62ffd"
+    url = "https://truefx-data.s3.amazonaws.com/AUDUSD-2016-02.tar.gz"
+
+[AUDUSD-2016-03]
+git-tree-sha1 = "352d5124f768b86c0c1ca6afcda25ee52525650e"
+lazy = true
+
+    [[AUDUSD-2016-03.download]]
+    sha256 = "31b5c0bfe4ee8154f22345704fea60b122e7ec4a47684014e7743e924f2bcded"
+    url = "https://truefx-data.s3.amazonaws.com/AUDUSD-2016-03.tar.gz"
+
+[AUDUSD-2016-04]
+git-tree-sha1 = "bdb549236ecbb518bb3ffa4dff83d65e6d1f1d9d"
+lazy = true
+
+    [[AUDUSD-2016-04.download]]
+    sha256 = "bebc1e981300ddc955c6157aa797fc1e54f1977d7c40f496f72deae8899ec2ed"
+    url = "https://truefx-data.s3.amazonaws.com/AUDUSD-2016-04.tar.gz"
+
+[AUDUSD-2016-05]
+git-tree-sha1 = "93933588202fa1e10e72d3bee5bcb22c25305c0c"
+lazy = true
+
+    [[AUDUSD-2016-05.download]]
+    sha256 = "27a5cfe0ad3dacc6a69341b40c98712aa17fabdfd1bcb7461ace9c911f2787cd"
+    url = "https://truefx-data.s3.amazonaws.com/AUDUSD-2016-05.tar.gz"
+
+[AUDUSD-2016-06]
+git-tree-sha1 = "d84ff2469e36179edfa7d2ee427fa8e07ea4010a"
+lazy = true
+
+    [[AUDUSD-2016-06.download]]
+    sha256 = "b171e36fae99e34262ae0af44b2a60412e045b6566b93b6342c4dea782464317"
+    url = "https://truefx-data.s3.amazonaws.com/AUDUSD-2016-06.tar.gz"
+
+[AUDUSD-2016-07]
+git-tree-sha1 = "c698838492c451c3e352ddd8c281d794bd4703b8"
+lazy = true
+
+    [[AUDUSD-2016-07.download]]
+    sha256 = "de73ed62e820eab533e2147cdfaa7b9089e90ce8eb43f9abaa82e602635034b9"
+    url = "https://truefx-data.s3.amazonaws.com/AUDUSD-2016-07.tar.gz"
+
+[AUDUSD-2016-08]
+git-tree-sha1 = "be3e81bb9e872b81c5945dfdb302cb6d4ba428ba"
+lazy = true
+
+    [[AUDUSD-2016-08.download]]
+    sha256 = "9d63fe6cef71253bf5d27eb26b0e1d333695c5832fedf70f4d991a31a24cb9d5"
+    url = "https://truefx-data.s3.amazonaws.com/AUDUSD-2016-08.tar.gz"
+
+[AUDUSD-2016-09]
+git-tree-sha1 = "25ed1d0e409f16455599da88683f61f016d0fcb7"
+lazy = true
+
+    [[AUDUSD-2016-09.download]]
+    sha256 = "c92a99293fe35ebe5fbfd5f893ac0b40325b9b1b2e1d6851e8a8715bf3c026fc"
+    url = "https://truefx-data.s3.amazonaws.com/AUDUSD-2016-09.tar.gz"
+
+[AUDUSD-2016-10]
+git-tree-sha1 = "8107030393dcdcd1b49ed8a41ab5eb120455e39f"
+lazy = true
+
+    [[AUDUSD-2016-10.download]]
+    sha256 = "93ae679c9323a9c9f11fca2a2ef395517b639f895b2f15cf573fa3802b744d09"
+    url = "https://truefx-data.s3.amazonaws.com/AUDUSD-2016-10.tar.gz"
+
+[AUDUSD-2016-11]
+git-tree-sha1 = "47a42cd18dceceffcf4b0ccf9cbb735aee6a4211"
+lazy = true
+
+    [[AUDUSD-2016-11.download]]
+    sha256 = "2691989b52043c423822fd9c865ced82fe3cb53cd97d4c5651fd2f992aafd97b"
+    url = "https://truefx-data.s3.amazonaws.com/AUDUSD-2016-11.tar.gz"
+
+[AUDUSD-2016-12]
+git-tree-sha1 = "9ad4287fbd154e8b596eb2b182d197ef9d48f66e"
+lazy = true
+
+    [[AUDUSD-2016-12.download]]
+    sha256 = "c95ed4c370bdb6db7105cd164c7a33246ac92727dfe026b75a52044820d0b267"
+    url = "https://truefx-data.s3.amazonaws.com/AUDUSD-2016-12.tar.gz"
+
+[CADJPY-2016-01]
+git-tree-sha1 = "33ed390510d15fa331b6f45fa8c61f32f1e2b04f"
+lazy = true
+
+    [[CADJPY-2016-01.download]]
+    sha256 = "b2f9200d26001b98ddb664a11dc55fc2d099710e9d45cf3d0ebdb1b1eb141ea0"
+    url = "https://truefx-data.s3.amazonaws.com/CADJPY-2016-01.tar.gz"
+
+[CADJPY-2016-02]
+git-tree-sha1 = "70514519efc3a02979a55a13ac69e78b7f11555b"
+lazy = true
+
+    [[CADJPY-2016-02.download]]
+    sha256 = "b66db10165685e72cedba2c755d2ffb0932967c8d2f4f00b506e2c470bb47fa9"
+    url = "https://truefx-data.s3.amazonaws.com/CADJPY-2016-02.tar.gz"
+
+[CADJPY-2016-03]
+git-tree-sha1 = "91adcef40a575a754aec97f4112d4978492ebbcc"
+lazy = true
+
+    [[CADJPY-2016-03.download]]
+    sha256 = "fe0414786349dcd2335519b77a0821b1f08c7dee74c353ded0c5dad7954838ff"
+    url = "https://truefx-data.s3.amazonaws.com/CADJPY-2016-03.tar.gz"
+
+[CADJPY-2016-04]
+git-tree-sha1 = "bd345fd168f16c009131904103d9bc68b4edf5e1"
+lazy = true
+
+    [[CADJPY-2016-04.download]]
+    sha256 = "bd444d1c86334a87430e4bedf83996b5be045af25951d5ce6ecbc9dd7bb4c895"
+    url = "https://truefx-data.s3.amazonaws.com/CADJPY-2016-04.tar.gz"
+
+[CADJPY-2016-05]
+git-tree-sha1 = "3a77598a7bbc2208a166a0677619e914b1202f58"
+lazy = true
+
+    [[CADJPY-2016-05.download]]
+    sha256 = "cdcf23df975b7cf6cd42ad35364af903e815d04fec02a54313178e4ca2214e8d"
+    url = "https://truefx-data.s3.amazonaws.com/CADJPY-2016-05.tar.gz"
+
+[CADJPY-2016-06]
+git-tree-sha1 = "26fd03caea13f3eac528e8c2e1039f0714936fed"
+lazy = true
+
+    [[CADJPY-2016-06.download]]
+    sha256 = "269d991e8b4551dee56e08f575e2816933dbd1ac1ca69be667dd56828772b98d"
+    url = "https://truefx-data.s3.amazonaws.com/CADJPY-2016-06.tar.gz"
+
+[CADJPY-2016-07]
+git-tree-sha1 = "06fbca193ce93b1161d9a5495cb70668c9496089"
+lazy = true
+
+    [[CADJPY-2016-07.download]]
+    sha256 = "31e694f093a4f26b73a353ac5c59cbf968710ad8e9995a0288a129fae813eac2"
+    url = "https://truefx-data.s3.amazonaws.com/CADJPY-2016-07.tar.gz"
+
+[CADJPY-2016-08]
+git-tree-sha1 = "698fe0a6b0b4faae3854434226c3cc5627d760e0"
+lazy = true
+
+    [[CADJPY-2016-08.download]]
+    sha256 = "c59f13dd78294ba5f00d7d12f475f05c1f26ca2a0e15efdb9d59951c95ec559a"
+    url = "https://truefx-data.s3.amazonaws.com/CADJPY-2016-08.tar.gz"
+
+[CADJPY-2016-09]
+git-tree-sha1 = "a73700ca841aeeff6ac3911494be589521510e1a"
+lazy = true
+
+    [[CADJPY-2016-09.download]]
+    sha256 = "503f7fb612e33fd52a2e051edb8b9f2c04c988613915d8e3425978a12d82e9d5"
+    url = "https://truefx-data.s3.amazonaws.com/CADJPY-2016-09.tar.gz"
+
+[CADJPY-2016-10]
+git-tree-sha1 = "20e2ad5279692a7083af6b2aec8e7be76b75db4d"
+lazy = true
+
+    [[CADJPY-2016-10.download]]
+    sha256 = "986ca6f45c0c7b1cf21a6d11f6c721cc31266baa9d1af75e3d310ea4863d16c5"
+    url = "https://truefx-data.s3.amazonaws.com/CADJPY-2016-10.tar.gz"
+
+[CADJPY-2016-11]
+git-tree-sha1 = "f2d715cea1ca3db8de81d13227b465ad8ac83101"
+lazy = true
+
+    [[CADJPY-2016-11.download]]
+    sha256 = "8513b4648f234e4f553cbc145fcd38065c46c6faa949e05f83fb7446dfe9f580"
+    url = "https://truefx-data.s3.amazonaws.com/CADJPY-2016-11.tar.gz"
+
+[CADJPY-2016-12]
+git-tree-sha1 = "c57fff9dcaac486b9bc4a0c2be1714cd95fdd458"
+lazy = true
+
+    [[CADJPY-2016-12.download]]
+    sha256 = "cbe992bb3d887d6f7076ac1a4c29111346bb61bdbae08f2b4ac31df22fb2a054"
+    url = "https://truefx-data.s3.amazonaws.com/CADJPY-2016-12.tar.gz"
+
+[CHFJPY-2016-01]
+git-tree-sha1 = "b2fdd99ab92c03bec46b2396cfe0df9802440a7d"
+lazy = true
+
+    [[CHFJPY-2016-01.download]]
+    sha256 = "e00ee5bc49f65c70941e5b893160a00a9ed1c0d0abd0c82d47e74e3092dc2326"
+    url = "https://truefx-data.s3.amazonaws.com/CHFJPY-2016-01.tar.gz"
+
+[CHFJPY-2016-02]
+git-tree-sha1 = "ebf92ee3714c64ec6214221dcae8bffc083c734b"
+lazy = true
+
+    [[CHFJPY-2016-02.download]]
+    sha256 = "ca53cd56f6a5340eaf6efa674532ea9cfd24be024f3e3bdf52349066238205bc"
+    url = "https://truefx-data.s3.amazonaws.com/CHFJPY-2016-02.tar.gz"
+
+[CHFJPY-2016-03]
+git-tree-sha1 = "8374fa0c21df1fd100f0914f9a3fb3a3ae339a56"
+lazy = true
+
+    [[CHFJPY-2016-03.download]]
+    sha256 = "72926a234f45d12cb39dd98bbd14fa356c735f6926f48a140ac4b12b22bee645"
+    url = "https://truefx-data.s3.amazonaws.com/CHFJPY-2016-03.tar.gz"
+
+[CHFJPY-2016-04]
+git-tree-sha1 = "2bab2ad604eec0d7102e2d37f5d6c78154bf4190"
+lazy = true
+
+    [[CHFJPY-2016-04.download]]
+    sha256 = "d11d553e35ec4886a4bfd45ff647beaf8f05d1e3b77395354b709d047f4f8aee"
+    url = "https://truefx-data.s3.amazonaws.com/CHFJPY-2016-04.tar.gz"
+
+[CHFJPY-2016-05]
+git-tree-sha1 = "d3e98b0051292e5c9f9046a7ca97dd5526c97a2b"
+lazy = true
+
+    [[CHFJPY-2016-05.download]]
+    sha256 = "23967a37d54f92f486ff62d91585f704d8c91c57dcd15af9ce704eeab2acbb57"
+    url = "https://truefx-data.s3.amazonaws.com/CHFJPY-2016-05.tar.gz"
+
+[CHFJPY-2016-06]
+git-tree-sha1 = "4f4a11b23248c2f8812669e91dadc5e297da8177"
+lazy = true
+
+    [[CHFJPY-2016-06.download]]
+    sha256 = "377d1a188fe76a7e8cf545fe94cddf0cb9d7235ed0ee513eb2960e7e3fcf3d5e"
+    url = "https://truefx-data.s3.amazonaws.com/CHFJPY-2016-06.tar.gz"
+
+[CHFJPY-2016-07]
+git-tree-sha1 = "e7521c846b9427054661d364c9d39daa53ce46c3"
+lazy = true
+
+    [[CHFJPY-2016-07.download]]
+    sha256 = "160a6d5b4eaa80bfc99ceb01aaacd5eb51a9a63d08637c155d141763c23bf2ed"
+    url = "https://truefx-data.s3.amazonaws.com/CHFJPY-2016-07.tar.gz"
+
+[CHFJPY-2016-08]
+git-tree-sha1 = "057b9930a19b4b88fc69dba3f8348b7827cad131"
+lazy = true
+
+    [[CHFJPY-2016-08.download]]
+    sha256 = "c6024ae72bf88f978ea2a0ade3a9a1bf429fbf76ddb5d778ab131f560c9a53da"
+    url = "https://truefx-data.s3.amazonaws.com/CHFJPY-2016-08.tar.gz"
+
+[CHFJPY-2016-09]
+git-tree-sha1 = "8b11dd042beefa0f59451c48b96c80e86376b589"
+lazy = true
+
+    [[CHFJPY-2016-09.download]]
+    sha256 = "8e2570764831933136d661eeaa7b803745c51080deb722c0dc4344bee66a0956"
+    url = "https://truefx-data.s3.amazonaws.com/CHFJPY-2016-09.tar.gz"
+
+[CHFJPY-2016-10]
+git-tree-sha1 = "be0b678c7f270d9d6aa23adb0fe213ab00ed93b6"
+lazy = true
+
+    [[CHFJPY-2016-10.download]]
+    sha256 = "73a18982b68d0dd12e30eb3673c27bf50dfd91f3fb213126b9d87ebe9be817e7"
+    url = "https://truefx-data.s3.amazonaws.com/CHFJPY-2016-10.tar.gz"
+
+[CHFJPY-2016-11]
+git-tree-sha1 = "b910595178ecd2ce06d965fff55a7032b02df013"
+lazy = true
+
+    [[CHFJPY-2016-11.download]]
+    sha256 = "957372b33ef1eb3bb841a50ee2e75e23e54ca2651b2b827ec823027d28dfc5c5"
+    url = "https://truefx-data.s3.amazonaws.com/CHFJPY-2016-11.tar.gz"
+
+[CHFJPY-2016-12]
+git-tree-sha1 = "5c542a320efda22fe776d8b53e3769f868546c60"
+lazy = true
+
+    [[CHFJPY-2016-12.download]]
+    sha256 = "14b9c43db0101d47e36ceed1f09a427d195d2b255556548a0fc00247c67ce816"
+    url = "https://truefx-data.s3.amazonaws.com/CHFJPY-2016-12.tar.gz"
+
+[EURCHF-2016-01]
+git-tree-sha1 = "1e2a6d4dc0cfe0cac0e28f9b090d33be3ca16dcf"
+lazy = true
+
+    [[EURCHF-2016-01.download]]
+    sha256 = "c7c74d1fa84e71a23b50b8bab138fe2bc4d2c2b0d07eeaf77dcfc95e194eedca"
+    url = "https://truefx-data.s3.amazonaws.com/EURCHF-2016-01.tar.gz"
+
+[EURCHF-2016-02]
+git-tree-sha1 = "54a1e6dacee3a02611be9e8f602cbaf7209f382a"
+lazy = true
+
+    [[EURCHF-2016-02.download]]
+    sha256 = "4d91f4e65cfbf1bd77cba637e68ea384790df880ba8f6238a243457524f0dce4"
+    url = "https://truefx-data.s3.amazonaws.com/EURCHF-2016-02.tar.gz"
+
+[EURCHF-2016-03]
+git-tree-sha1 = "37a4c042b55f222fed058d0841594cb1467e872d"
+lazy = true
+
+    [[EURCHF-2016-03.download]]
+    sha256 = "6cfee6f8953e246044731e5e6b42a867689f9d887c40cd5e8c9e4a5beb4ca2cc"
+    url = "https://truefx-data.s3.amazonaws.com/EURCHF-2016-03.tar.gz"
+
+[EURCHF-2016-04]
+git-tree-sha1 = "586238f8a946affa7a788b84185300e7b076e47f"
+lazy = true
+
+    [[EURCHF-2016-04.download]]
+    sha256 = "9f7167d1a6a68e1c83841c8cb08a6d3396f5d3d9327adf3cc3c506a1b7c9a444"
+    url = "https://truefx-data.s3.amazonaws.com/EURCHF-2016-04.tar.gz"
+
+[EURCHF-2016-05]
+git-tree-sha1 = "db644effb76ab9c80dad7406f214af51d45cfa86"
+lazy = true
+
+    [[EURCHF-2016-05.download]]
+    sha256 = "86eff9997807c4ff3680f8f004306cb5239046e821f3433161769e02310b5a6b"
+    url = "https://truefx-data.s3.amazonaws.com/EURCHF-2016-05.tar.gz"
+
+[EURCHF-2016-06]
+git-tree-sha1 = "b12d2118b2b96521c327700a092a1dcb71ebb491"
+lazy = true
+
+    [[EURCHF-2016-06.download]]
+    sha256 = "91c40c79d64833585d32c634489f0a264f040ba898939252cb2ad61ba157a6b5"
+    url = "https://truefx-data.s3.amazonaws.com/EURCHF-2016-06.tar.gz"
+
+[EURCHF-2016-07]
+git-tree-sha1 = "3514213286f0415119340d6464c07e3fab87da74"
+lazy = true
+
+    [[EURCHF-2016-07.download]]
+    sha256 = "fb2ef70fcda8720ba0f0c67b015c8e4c7f7f11fecae618816ce18c2a535787f2"
+    url = "https://truefx-data.s3.amazonaws.com/EURCHF-2016-07.tar.gz"
+
+[EURCHF-2016-08]
+git-tree-sha1 = "7435530aa05189bc0052aad1b8589213cc2c27a2"
+lazy = true
+
+    [[EURCHF-2016-08.download]]
+    sha256 = "a28f56178e25aad6f103a1cc399fab3632e028817a2bb150001122ea22ac5a2c"
+    url = "https://truefx-data.s3.amazonaws.com/EURCHF-2016-08.tar.gz"
+
+[EURCHF-2016-09]
+git-tree-sha1 = "068a8efbeeedb74b4720a577cb58d56f365c296c"
+lazy = true
+
+    [[EURCHF-2016-09.download]]
+    sha256 = "425820e009988c19d618faa29a9789a2ca14b060c8fd883c7cc02ecfc98efda8"
+    url = "https://truefx-data.s3.amazonaws.com/EURCHF-2016-09.tar.gz"
+
+[EURCHF-2016-10]
+git-tree-sha1 = "e04685b4880c3b440286871afe94c2e7dba0f257"
+lazy = true
+
+    [[EURCHF-2016-10.download]]
+    sha256 = "47ecb4c6bae41a6c81f493a35802b69bddc6e577004391ea52946206aae74c6d"
+    url = "https://truefx-data.s3.amazonaws.com/EURCHF-2016-10.tar.gz"
+
+[EURCHF-2016-11]
+git-tree-sha1 = "b40772fa1a95ef9fbe2cebfdbb770edb4d69a2c3"
+lazy = true
+
+    [[EURCHF-2016-11.download]]
+    sha256 = "9f9097d69636fc45c399edaec3d87e00f64cac9ee8ca4a1faa2c1b66b42efabc"
+    url = "https://truefx-data.s3.amazonaws.com/EURCHF-2016-11.tar.gz"
+
+[EURCHF-2016-12]
+git-tree-sha1 = "4d60bb89ea4d209450e9d239abc8f1732264cfda"
+lazy = true
+
+    [[EURCHF-2016-12.download]]
+    sha256 = "c6038eda2fdee82129306e726fcd0bc44ff2abe3b4256bc7bd978f3f13d15240"
+    url = "https://truefx-data.s3.amazonaws.com/EURCHF-2016-12.tar.gz"
+
+[EURGBP-2016-01]
+git-tree-sha1 = "58d440fff6c733b058e6284ee0bb84abfaaab462"
+lazy = true
+
+    [[EURGBP-2016-01.download]]
+    sha256 = "f4700044772f76b298cc224511d3ce4d1af459fb13126e481f4de040019ad7cc"
+    url = "https://truefx-data.s3.amazonaws.com/EURGBP-2016-01.tar.gz"
+
+[EURGBP-2016-02]
+git-tree-sha1 = "32ca2c63b345ea42b2906813dd0806f78e3639cd"
+lazy = true
+
+    [[EURGBP-2016-02.download]]
+    sha256 = "a6b60e4d3a624bf32bd404ffef58f4405cf1a1f0dc0fdf470c3fb5fa7dea4c31"
+    url = "https://truefx-data.s3.amazonaws.com/EURGBP-2016-02.tar.gz"
+
+[EURGBP-2016-03]
+git-tree-sha1 = "852594360447b4b2fccc226fef0f517851d9760c"
+lazy = true
+
+    [[EURGBP-2016-03.download]]
+    sha256 = "1693d04411336a917db0aebda8839eaa3ab4c267f9f28b53e3bbd4e782590cd5"
+    url = "https://truefx-data.s3.amazonaws.com/EURGBP-2016-03.tar.gz"
+
+[EURGBP-2016-04]
+git-tree-sha1 = "4690e979c954d7c9748fafb2485583abf96222f2"
+lazy = true
+
+    [[EURGBP-2016-04.download]]
+    sha256 = "545b031323a41499162971e9a652328679f669502ff9829752082afe331eceaf"
+    url = "https://truefx-data.s3.amazonaws.com/EURGBP-2016-04.tar.gz"
+
+[EURGBP-2016-05]
+git-tree-sha1 = "d91880f928f8ce0f7335ed12dd360e386df1c2c3"
+lazy = true
+
+    [[EURGBP-2016-05.download]]
+    sha256 = "bc107ef4252f81509af11914aa021dbef077548a6636ce39c16233ab8db70741"
+    url = "https://truefx-data.s3.amazonaws.com/EURGBP-2016-05.tar.gz"
+
+[EURGBP-2016-06]
+git-tree-sha1 = "a3eb23efab250b99812ac67913db9ad1a0b76206"
+lazy = true
+
+    [[EURGBP-2016-06.download]]
+    sha256 = "c8bbca8a507c7f145c434a4bca860ae460f51450410a442dfe9e80ad1a02d3e0"
+    url = "https://truefx-data.s3.amazonaws.com/EURGBP-2016-06.tar.gz"
+
+[EURGBP-2016-07]
+git-tree-sha1 = "fc3c5d7a7b165ac2c1164418f27eeb95ab700c39"
+lazy = true
+
+    [[EURGBP-2016-07.download]]
+    sha256 = "83d8250b1972404e999ef5cafc820e727fccda8be1066ae418eecab4f116d895"
+    url = "https://truefx-data.s3.amazonaws.com/EURGBP-2016-07.tar.gz"
+
+[EURGBP-2016-08]
+git-tree-sha1 = "7832c2c2470f2c6889d80e51af7a74ef08e6d7e2"
+lazy = true
+
+    [[EURGBP-2016-08.download]]
+    sha256 = "93909673e905f311f4823ff358b019c1e1c20afa0397a465719ce352ecd15c50"
+    url = "https://truefx-data.s3.amazonaws.com/EURGBP-2016-08.tar.gz"
+
+[EURGBP-2016-09]
+git-tree-sha1 = "2425ea625b0eae8a0f02d24494fecbba9fd81da7"
+lazy = true
+
+    [[EURGBP-2016-09.download]]
+    sha256 = "6767b9bef7883d47076d98c07da4ce6be6f8dafca0b1e14dcf2d55719979ea81"
+    url = "https://truefx-data.s3.amazonaws.com/EURGBP-2016-09.tar.gz"
+
+[EURGBP-2016-10]
+git-tree-sha1 = "a1dd5ecf862ef7cd9fe15134328d9997830240ca"
+lazy = true
+
+    [[EURGBP-2016-10.download]]
+    sha256 = "ee67738e6b375761126919270b4bff4c71cde4d9b02d6fcd46103a70486379f6"
+    url = "https://truefx-data.s3.amazonaws.com/EURGBP-2016-10.tar.gz"
+
+[EURGBP-2016-11]
+git-tree-sha1 = "c89c7acf89187a9ee3e065ff510819df1359a801"
+lazy = true
+
+    [[EURGBP-2016-11.download]]
+    sha256 = "ef0b22d59483254727462384ba5ea6ce3e633422bcb72d926c400764675f68d7"
+    url = "https://truefx-data.s3.amazonaws.com/EURGBP-2016-11.tar.gz"
+
+[EURGBP-2016-12]
+git-tree-sha1 = "98385ddec051a2b6b82286a8dff6c3acc1e3caa8"
+lazy = true
+
+    [[EURGBP-2016-12.download]]
+    sha256 = "b6cfe9e125357e5ec0eb314cad2776eb18d46430bb1a609d90b9246b0612a37d"
+    url = "https://truefx-data.s3.amazonaws.com/EURGBP-2016-12.tar.gz"
+
+[EURJPY-2016-01]
+git-tree-sha1 = "f1909fa3b72a40f69aa52ee039b853612384b93e"
+lazy = true
+
+    [[EURJPY-2016-01.download]]
+    sha256 = "f9f558b81450909256dd1875b96da4f2a301f902c9a6379c84c9dc5c094dde4c"
+    url = "https://truefx-data.s3.amazonaws.com/EURJPY-2016-01.tar.gz"
+
+[EURJPY-2016-02]
+git-tree-sha1 = "30b71e4450a41f34395a98817519f92bfed7ede3"
+lazy = true
+
+    [[EURJPY-2016-02.download]]
+    sha256 = "769ff2b82de58c889c49e99cc8143756a8016336affcc5057f6ec89f7edf95ed"
+    url = "https://truefx-data.s3.amazonaws.com/EURJPY-2016-02.tar.gz"
+
+[EURJPY-2016-03]
+git-tree-sha1 = "4a1c95e72d5c5ac9cf04f6173438484680c38bfe"
+lazy = true
+
+    [[EURJPY-2016-03.download]]
+    sha256 = "2871a8abc6c3c6799113906148e32440d8e8b49354f142643673ed9916c2ea5d"
+    url = "https://truefx-data.s3.amazonaws.com/EURJPY-2016-03.tar.gz"
+
+[EURJPY-2016-04]
+git-tree-sha1 = "7285ab163d2996c42a071c2fb7e33fe66999ec51"
+lazy = true
+
+    [[EURJPY-2016-04.download]]
+    sha256 = "7cf44b6af55cc591916b41443850ac775360e26d57c8c3ea8ea93380f92974bb"
+    url = "https://truefx-data.s3.amazonaws.com/EURJPY-2016-04.tar.gz"
+
+[EURJPY-2016-05]
+git-tree-sha1 = "4081c65c3cf551d2d8df309584b78b8572f154d8"
+lazy = true
+
+    [[EURJPY-2016-05.download]]
+    sha256 = "c00383d84b5f8088c4a50f434c547929ea463d70c91514ae920b0b9f8ecb08c6"
+    url = "https://truefx-data.s3.amazonaws.com/EURJPY-2016-05.tar.gz"
+
+[EURJPY-2016-06]
+git-tree-sha1 = "3b891d30710f80c8b2d1cdbd9288854919d9124c"
+lazy = true
+
+    [[EURJPY-2016-06.download]]
+    sha256 = "6fe380648ab4ad765337ad8d00feb8d839ddb5b282145d3053e7d5f13e7c509b"
+    url = "https://truefx-data.s3.amazonaws.com/EURJPY-2016-06.tar.gz"
+
+[EURJPY-2016-07]
+git-tree-sha1 = "a4eeea5794932a4c72881744ea790d44065dc4a4"
+lazy = true
+
+    [[EURJPY-2016-07.download]]
+    sha256 = "fc505dd5e212c1be37b8e967d2eff78c10a7a7aab6a9bd14981445b4e99ff6ab"
+    url = "https://truefx-data.s3.amazonaws.com/EURJPY-2016-07.tar.gz"
+
+[EURJPY-2016-08]
+git-tree-sha1 = "76c73851ac8c25bc9dc476925e9fe47ce5f46731"
+lazy = true
+
+    [[EURJPY-2016-08.download]]
+    sha256 = "d96dd572235831145a70bc992ba6dd06c85f37d6a3fdd46c024ba823a5c224e4"
+    url = "https://truefx-data.s3.amazonaws.com/EURJPY-2016-08.tar.gz"
+
+[EURJPY-2016-09]
+git-tree-sha1 = "5824ce2a6b6c385ecd211f92039e777837bedf68"
+lazy = true
+
+    [[EURJPY-2016-09.download]]
+    sha256 = "553dd4fd545ee4b2f15c3ae9bac4a9098f4d764be491f56880ff5e13ca0ad64b"
+    url = "https://truefx-data.s3.amazonaws.com/EURJPY-2016-09.tar.gz"
+
+[EURJPY-2016-10]
+git-tree-sha1 = "1bb22af6baf33826a936b62d16b8e63043db5dc3"
+lazy = true
+
+    [[EURJPY-2016-10.download]]
+    sha256 = "92989f2b5befba8401ec6068846b3e41c16a88ff3f6ce9e98c7af440c124d29c"
+    url = "https://truefx-data.s3.amazonaws.com/EURJPY-2016-10.tar.gz"
+
+[EURJPY-2016-11]
+git-tree-sha1 = "59209f91a498872d930f70ce8dbb73ebd6064107"
+lazy = true
+
+    [[EURJPY-2016-11.download]]
+    sha256 = "d669cb1a219c450250c48c8eb7f652f0d5452b30abe896ccf7f0013bec051160"
+    url = "https://truefx-data.s3.amazonaws.com/EURJPY-2016-11.tar.gz"
+
+[EURJPY-2016-12]
+git-tree-sha1 = "0c2d5cf92a59c266bcd5a689734af9883abbe336"
+lazy = true
+
+    [[EURJPY-2016-12.download]]
+    sha256 = "bcbc267d3af7ed73dcd81804fa42f9257f95e88481a34a6b7f21ace74a978e36"
+    url = "https://truefx-data.s3.amazonaws.com/EURJPY-2016-12.tar.gz"
+
+[EURUSD-2016-01]
+git-tree-sha1 = "cc0cf6caf3e2d3a6e5456286cb7496b8049cd057"
+lazy = true
+
+    [[EURUSD-2016-01.download]]
+    sha256 = "2bef0e381b7c4417027d4f146bc51b2afbd49d20b1ca15604448b4426fc7eff0"
+    url = "https://truefx-data.s3.amazonaws.com/EURUSD-2016-01.tar.gz"
+
+[EURUSD-2016-02]
+git-tree-sha1 = "0d7e0347c78a2d2ac42e9f5395794cdba3b7a26a"
+lazy = true
+
+    [[EURUSD-2016-02.download]]
+    sha256 = "d6c100c92b0343e7b5c5967c37f0c0b362e189f6d2131dd77680effbaf15a06a"
+    url = "https://truefx-data.s3.amazonaws.com/EURUSD-2016-02.tar.gz"
+
+[EURUSD-2016-03]
+git-tree-sha1 = "d5766c595053410ffe3161320ad5b80234ce6d87"
+lazy = true
+
+    [[EURUSD-2016-03.download]]
+    sha256 = "2d5d9448a4c87df894e7ad40912325e93b4b73a3c5a6daccdbfbfaf01fa7e327"
+    url = "https://truefx-data.s3.amazonaws.com/EURUSD-2016-03.tar.gz"
+
+[EURUSD-2016-04]
+git-tree-sha1 = "7b6de258f1442c2b05d9938a5d3aba2e55b73911"
+lazy = true
+
+    [[EURUSD-2016-04.download]]
+    sha256 = "59befac184a09465d18cfa17bcabb48422650164267ebd33c0467391eb465245"
+    url = "https://truefx-data.s3.amazonaws.com/EURUSD-2016-04.tar.gz"
+
+[EURUSD-2016-05]
+git-tree-sha1 = "48793b8cb1809a4ff1d2c8abd6188375f0382597"
+lazy = true
+
+    [[EURUSD-2016-05.download]]
+    sha256 = "3c0bdb15c4a1c8ce9db408838f9ec5f17bc45efd4e28b3d4ad99b4366422b02c"
+    url = "https://truefx-data.s3.amazonaws.com/EURUSD-2016-05.tar.gz"
+
+[EURUSD-2016-06]
+git-tree-sha1 = "bbd1e008cd26bf57643bb3991b6173f65cf61d3a"
+lazy = true
+
+    [[EURUSD-2016-06.download]]
+    sha256 = "1f918139cd7359a190dcdf1112087ddff81b61783030bfd982df3feeee3150dd"
+    url = "https://truefx-data.s3.amazonaws.com/EURUSD-2016-06.tar.gz"
+
+[EURUSD-2016-07]
+git-tree-sha1 = "369c31d8a75865382ecad9c3cacd32b874c76e7f"
+lazy = true
+
+    [[EURUSD-2016-07.download]]
+    sha256 = "2cdb96c48120d8fbcef287d20722beb3fee8502b51bf521ad5f0734b0bb06b6f"
+    url = "https://truefx-data.s3.amazonaws.com/EURUSD-2016-07.tar.gz"
+
+[EURUSD-2016-08]
+git-tree-sha1 = "73f24fce5d8e23ff3f8293fe37c749962835faa9"
+lazy = true
+
+    [[EURUSD-2016-08.download]]
+    sha256 = "daa83c1d20959fe755f86057de8a43177b93ee3698f66a4f93375c1d76eb381b"
+    url = "https://truefx-data.s3.amazonaws.com/EURUSD-2016-08.tar.gz"
+
+[EURUSD-2016-09]
+git-tree-sha1 = "ac55bc33d5ed14d22921ab4f461696e7afa19858"
+lazy = true
+
+    [[EURUSD-2016-09.download]]
+    sha256 = "0243ad710a850e3aa591039066caee5c5d35eae27edfbf7a0dc7bbf472cb47e3"
+    url = "https://truefx-data.s3.amazonaws.com/EURUSD-2016-09.tar.gz"
+
+[EURUSD-2016-10]
+git-tree-sha1 = "e9c7442cd98031e61580c6206c111b8af442069a"
+lazy = true
+
+    [[EURUSD-2016-10.download]]
+    sha256 = "aa72f2fbe2167397d07b19d99a788bd860784dbf0b288065b2f6217288f0a748"
+    url = "https://truefx-data.s3.amazonaws.com/EURUSD-2016-10.tar.gz"
+
+[EURUSD-2016-11]
+git-tree-sha1 = "ad24a16992359c6bdf3a0ae0e5c6c52e63400212"
+lazy = true
+
+    [[EURUSD-2016-11.download]]
+    sha256 = "e9edd605fc455cc0a20882d4432b0128ad21c7fa8cea61ffc57acc35dc19d653"
+    url = "https://truefx-data.s3.amazonaws.com/EURUSD-2016-11.tar.gz"
+
+[EURUSD-2016-12]
+git-tree-sha1 = "ad6d588eed56be1ce0292c59ebdb181156e20957"
+lazy = true
+
+    [[EURUSD-2016-12.download]]
+    sha256 = "34546eca818dae791cf5997fda328dddf41f0c8e45c5367f4533453751d48fdb"
+    url = "https://truefx-data.s3.amazonaws.com/EURUSD-2016-12.tar.gz"
+
+[GBPJPY-2016-01]
+git-tree-sha1 = "5d2398148b0e0cab6a375ff4b6936bf196edf177"
+lazy = true
+
+    [[GBPJPY-2016-01.download]]
+    sha256 = "17133969ae3fb54cd77cdd28afec8446c23c4a745aa6689a97ff6d8e63c73cda"
+    url = "https://truefx-data.s3.amazonaws.com/GBPJPY-2016-01.tar.gz"
+
+[GBPJPY-2016-02]
+git-tree-sha1 = "7cbc7857e4450516f5145b645fed72703ae23506"
+lazy = true
+
+    [[GBPJPY-2016-02.download]]
+    sha256 = "db2aa9316cf6c95159ffb1916b47d27ba6a7ff55ec26f80bbe1e0bd5a8caa126"
+    url = "https://truefx-data.s3.amazonaws.com/GBPJPY-2016-02.tar.gz"
+
+[GBPJPY-2016-03]
+git-tree-sha1 = "84e1f528f4bd584cacaec10773a2123354e0696f"
+lazy = true
+
+    [[GBPJPY-2016-03.download]]
+    sha256 = "300ec0e4a1314af580b2e9a71e7c94c6aed0361f9a8a829f1cb387e07854a0bd"
+    url = "https://truefx-data.s3.amazonaws.com/GBPJPY-2016-03.tar.gz"
+
+[GBPJPY-2016-04]
+git-tree-sha1 = "e0da318c9ac778190b76df71ad8165384a9f8907"
+lazy = true
+
+    [[GBPJPY-2016-04.download]]
+    sha256 = "73c37630629f93b6dbb40076bd0791b5b1a668dbc3d06fa2ab6997d9a785f7d1"
+    url = "https://truefx-data.s3.amazonaws.com/GBPJPY-2016-04.tar.gz"
+
+[GBPJPY-2016-05]
+git-tree-sha1 = "037f3e6ec96859c9e14354e8e9521c0dbccf56b7"
+lazy = true
+
+    [[GBPJPY-2016-05.download]]
+    sha256 = "226cd6be7696cdc4afbaa95e803ca7ba86901fc642e064fed7dd7100a6b8d13a"
+    url = "https://truefx-data.s3.amazonaws.com/GBPJPY-2016-05.tar.gz"
+
+[GBPJPY-2016-06]
+git-tree-sha1 = "662036e0d351a4b1996c679fb038868df97e31c6"
+lazy = true
+
+    [[GBPJPY-2016-06.download]]
+    sha256 = "505a23708f7132566a564c378af8072be23ec7825058ae53b5e0e0db25464100"
+    url = "https://truefx-data.s3.amazonaws.com/GBPJPY-2016-06.tar.gz"
+
+[GBPJPY-2016-07]
+git-tree-sha1 = "61a4264e4cb3968dd70dbee705927a14eccc64ca"
+lazy = true
+
+    [[GBPJPY-2016-07.download]]
+    sha256 = "6d74247ca9f0d70db1ba699d5ca02f89e4c567c4017d313594bcce7e1b4ceec7"
+    url = "https://truefx-data.s3.amazonaws.com/GBPJPY-2016-07.tar.gz"
+
+[GBPJPY-2016-08]
+git-tree-sha1 = "1a575c11724c58c060f2ef4f61c5b87febe054cd"
+lazy = true
+
+    [[GBPJPY-2016-08.download]]
+    sha256 = "9c32eef4b78088d7e90e4f5748c25c114f8a18ccb2585a91fe1093d7c9927488"
+    url = "https://truefx-data.s3.amazonaws.com/GBPJPY-2016-08.tar.gz"
+
+[GBPJPY-2016-09]
+git-tree-sha1 = "f9635a1f52a66add291df7a88f9555f1016b1915"
+lazy = true
+
+    [[GBPJPY-2016-09.download]]
+    sha256 = "0b275907c233c86d8c5d040be36a3da9eac15254477af686327847d9f77271d7"
+    url = "https://truefx-data.s3.amazonaws.com/GBPJPY-2016-09.tar.gz"
+
+[GBPJPY-2016-10]
+git-tree-sha1 = "6366e3f5217093d5b7f67ed21b47d478cd84759c"
+lazy = true
+
+    [[GBPJPY-2016-10.download]]
+    sha256 = "c3dc78eccfa172883c6694522a8de5ac87e0af1aaa2eeb9ad39a983b4d95b8f4"
+    url = "https://truefx-data.s3.amazonaws.com/GBPJPY-2016-10.tar.gz"
+
+[GBPJPY-2016-11]
+git-tree-sha1 = "7b5a7558d059d27dfe5d74868f0e6c385f6501a4"
+lazy = true
+
+    [[GBPJPY-2016-11.download]]
+    sha256 = "78d835c9c58317bd8bde925b72ede59d5c012358562c01d773081235e9c193a4"
+    url = "https://truefx-data.s3.amazonaws.com/GBPJPY-2016-11.tar.gz"
+
+[GBPJPY-2016-12]
+git-tree-sha1 = "d7f7b652034baafe8db57db22e0e4311809c947c"
+lazy = true
+
+    [[GBPJPY-2016-12.download]]
+    sha256 = "f523565ebce6965086c1a28ccff3595ea0ca0eebd756685c06da439767611e70"
+    url = "https://truefx-data.s3.amazonaws.com/GBPJPY-2016-12.tar.gz"
+
+[GBPUSD-2016-01]
+git-tree-sha1 = "7a45d96a2162e0e595cd865b6283476b5d628b06"
+lazy = true
+
+    [[GBPUSD-2016-01.download]]
+    sha256 = "0863c7fe8ec835c53143a3d1b8e948cff42c59e5a5b95f63da601fecb81285a5"
+    url = "https://truefx-data.s3.amazonaws.com/GBPUSD-2016-01.tar.gz"
+
+[GBPUSD-2016-02]
+git-tree-sha1 = "1f3949a4f1766c5ae9d4aefafc0c51e399e9bdbf"
+lazy = true
+
+    [[GBPUSD-2016-02.download]]
+    sha256 = "6ce2b14d86c76cf3321436e7b382468755693cf668815c7051ac2b410df6e38c"
+    url = "https://truefx-data.s3.amazonaws.com/GBPUSD-2016-02.tar.gz"
+
+[GBPUSD-2016-03]
+git-tree-sha1 = "4654e1b7272fd107c7a01cb1b7dfed7e0936cf1b"
+lazy = true
+
+    [[GBPUSD-2016-03.download]]
+    sha256 = "7335f54e9d5885c97f6bc83588d1f5274621b059aedd94af2788c02c1931605c"
+    url = "https://truefx-data.s3.amazonaws.com/GBPUSD-2016-03.tar.gz"
+
+[GBPUSD-2016-04]
+git-tree-sha1 = "54f698db9ec0ec3fc2eed50153986e4dbc68ee3a"
+lazy = true
+
+    [[GBPUSD-2016-04.download]]
+    sha256 = "ceffa8e8e0b98b1f7dccea83dfaffd2d632d776a06cc643c1f9ea11cc5200a4b"
+    url = "https://truefx-data.s3.amazonaws.com/GBPUSD-2016-04.tar.gz"
+
+[GBPUSD-2016-05]
+git-tree-sha1 = "a601a28909ef5152991a3ea62d6c82186f32a765"
+lazy = true
+
+    [[GBPUSD-2016-05.download]]
+    sha256 = "4b2e24ddff9e1d4b3fafb49604e26684fd25a5f2a81079e6fa4a3a07bf555fbd"
+    url = "https://truefx-data.s3.amazonaws.com/GBPUSD-2016-05.tar.gz"
+
+[GBPUSD-2016-06]
+git-tree-sha1 = "78c86bd940cbf306445ff078959ebae779269762"
+lazy = true
+
+    [[GBPUSD-2016-06.download]]
+    sha256 = "bb34f57294904d346c5a17605e4fffbfaf5c69da985712a5b3699fcd8c653e74"
+    url = "https://truefx-data.s3.amazonaws.com/GBPUSD-2016-06.tar.gz"
+
+[GBPUSD-2016-07]
+git-tree-sha1 = "4ef92c420c7d353193a206e2a248b76037643921"
+lazy = true
+
+    [[GBPUSD-2016-07.download]]
+    sha256 = "427cb5b6fd0c6c10462841b0fb6ce94ea8e3884604d246da6606dbe08be75be2"
+    url = "https://truefx-data.s3.amazonaws.com/GBPUSD-2016-07.tar.gz"
+
+[GBPUSD-2016-08]
+git-tree-sha1 = "b28cea9a32aefabd332099a49e1695727b1e84a3"
+lazy = true
+
+    [[GBPUSD-2016-08.download]]
+    sha256 = "0d2b6b961554cd875463e570eb9c9f82f244af905702b3a29b3536643de03766"
+    url = "https://truefx-data.s3.amazonaws.com/GBPUSD-2016-08.tar.gz"
+
+[GBPUSD-2016-09]
+git-tree-sha1 = "7ae53d55bf17494d658d8df2e38da287c6284606"
+lazy = true
+
+    [[GBPUSD-2016-09.download]]
+    sha256 = "5f6708a5c67109baac4779d3ad5fb61f2524aef819bf1daa3780ad7a094aeb3e"
+    url = "https://truefx-data.s3.amazonaws.com/GBPUSD-2016-09.tar.gz"
+
+[GBPUSD-2016-10]
+git-tree-sha1 = "856a68f13deee85ae8bdc49b6e1a41910b35cddd"
+lazy = true
+
+    [[GBPUSD-2016-10.download]]
+    sha256 = "7c5f6424f5d23d5c1b0134e651b97b2f909f8f05cf3aa22577fee1fed99d2f15"
+    url = "https://truefx-data.s3.amazonaws.com/GBPUSD-2016-10.tar.gz"
+
+[GBPUSD-2016-11]
+git-tree-sha1 = "40c4918b06edc74434782f930da897a4db01fb93"
+lazy = true
+
+    [[GBPUSD-2016-11.download]]
+    sha256 = "2cf1af3e2cb8f4a44c4c02c41cbaf4378b5ecdc865ff16185941ab8747117c50"
+    url = "https://truefx-data.s3.amazonaws.com/GBPUSD-2016-11.tar.gz"
+
+[GBPUSD-2016-12]
+git-tree-sha1 = "128cc72c812621a6d6f953e32e4cf06699f7b266"
+lazy = true
+
+    [[GBPUSD-2016-12.download]]
+    sha256 = "9c682b510c785329987a4863171712f43b4f16ff206f6af05394c5bf5bccc50f"
+    url = "https://truefx-data.s3.amazonaws.com/GBPUSD-2016-12.tar.gz"
+
+[NZDUSD-2016-01]
+git-tree-sha1 = "a5bd69ac15ce4df7c82fbb92135c11948169dcd7"
+lazy = true
+
+    [[NZDUSD-2016-01.download]]
+    sha256 = "60188870cf683406ee3abe5c9c8afe998572ee559d32f10229c786b2b8a12689"
+    url = "https://truefx-data.s3.amazonaws.com/NZDUSD-2016-01.tar.gz"
+
+[NZDUSD-2016-02]
+git-tree-sha1 = "86521c68e66f554988aa4ddeee1bd750d2edb2c7"
+lazy = true
+
+    [[NZDUSD-2016-02.download]]
+    sha256 = "79c52c61fb087f1e93371015ae282259932e58dbd2dc9aaf14dda7da1232975c"
+    url = "https://truefx-data.s3.amazonaws.com/NZDUSD-2016-02.tar.gz"
+
+[NZDUSD-2016-03]
+git-tree-sha1 = "39c8c3de14ebb1e1c3694a9181877b4ad1e8e794"
+lazy = true
+
+    [[NZDUSD-2016-03.download]]
+    sha256 = "c8f81cd3925e37e1318d7268e19ff299bc83c3453364de457289d1afa7126919"
+    url = "https://truefx-data.s3.amazonaws.com/NZDUSD-2016-03.tar.gz"
+
+[NZDUSD-2016-04]
+git-tree-sha1 = "f2339880d88aabf1c7168eae596cbb7fea34bdd9"
+lazy = true
+
+    [[NZDUSD-2016-04.download]]
+    sha256 = "5d668f3b71bc5107de5c3a70b75120150a909a9b15110acf9bc388e8bcf4a4b5"
+    url = "https://truefx-data.s3.amazonaws.com/NZDUSD-2016-04.tar.gz"
+
+[NZDUSD-2016-05]
+git-tree-sha1 = "e8256dde971d0626a91705f5c28faf9e939e45cc"
+lazy = true
+
+    [[NZDUSD-2016-05.download]]
+    sha256 = "ee5e288a71e8bc3c243b377642c0494be860345228837ef48ef379391fe8147f"
+    url = "https://truefx-data.s3.amazonaws.com/NZDUSD-2016-05.tar.gz"
+
+[NZDUSD-2016-06]
+git-tree-sha1 = "6a1de224daab353ed50517d7c92621d42f1db689"
+lazy = true
+
+    [[NZDUSD-2016-06.download]]
+    sha256 = "e91bc7e6fb1981769c08cadb50c74c422cc43f7e136f5f553ee2521db9592157"
+    url = "https://truefx-data.s3.amazonaws.com/NZDUSD-2016-06.tar.gz"
+
+[NZDUSD-2016-07]
+git-tree-sha1 = "f6b490548d070a2d3729d3ad674fac05baa55ca2"
+lazy = true
+
+    [[NZDUSD-2016-07.download]]
+    sha256 = "d3cf4f20b8f81abe6fa324c9b7c496e65f9387f8b4d937cecff8270d5d0deccb"
+    url = "https://truefx-data.s3.amazonaws.com/NZDUSD-2016-07.tar.gz"
+
+[NZDUSD-2016-08]
+git-tree-sha1 = "b0a3eee02fac99e936c10bf20dea66b5c1c1da75"
+lazy = true
+
+    [[NZDUSD-2016-08.download]]
+    sha256 = "7018cf2c6594e1e96c514a48d8cb0687d725675817235102dffd3b311234b2d1"
+    url = "https://truefx-data.s3.amazonaws.com/NZDUSD-2016-08.tar.gz"
+
+[NZDUSD-2016-09]
+git-tree-sha1 = "a44d70bf6fde4da5eb1d5d14e8101c14c4e80e3c"
+lazy = true
+
+    [[NZDUSD-2016-09.download]]
+    sha256 = "e42c856d1f8a15bf1adfce79552d2dca72801e2f65e97bd3ed90c9c63da1581c"
+    url = "https://truefx-data.s3.amazonaws.com/NZDUSD-2016-09.tar.gz"
+
+[NZDUSD-2016-10]
+git-tree-sha1 = "483c12474e80ed43c965269c98b113c11fe3c987"
+lazy = true
+
+    [[NZDUSD-2016-10.download]]
+    sha256 = "708f94d8851bd7f5f1df46ff41e95228848d7db34946ff637c6d88b984f8401b"
+    url = "https://truefx-data.s3.amazonaws.com/NZDUSD-2016-10.tar.gz"
+
+[NZDUSD-2016-11]
+git-tree-sha1 = "adf0872e277829cc1381fd6c5b436f2687cf28e9"
+lazy = true
+
+    [[NZDUSD-2016-11.download]]
+    sha256 = "0110b2bc1903ea20b57ea432c1895332ceec4bd432802884134b1d2a91d66743"
+    url = "https://truefx-data.s3.amazonaws.com/NZDUSD-2016-11.tar.gz"
+
+[NZDUSD-2016-12]
+git-tree-sha1 = "a69c5eec5d251182991c5507c531b0cacdd58174"
+lazy = true
+
+    [[NZDUSD-2016-12.download]]
+    sha256 = "db6f15b2093bc34bbd40b93004299fabff17bba8bfec92579e8764fa6edbb52f"
+    url = "https://truefx-data.s3.amazonaws.com/NZDUSD-2016-12.tar.gz"
+
+[USDCAD-2016-01]
+git-tree-sha1 = "11346a360eb54ff3c110b560cbdbee4c405aeed7"
+lazy = true
+
+    [[USDCAD-2016-01.download]]
+    sha256 = "9aef2ea4206e260bbcefc3bc129df68989fdc9df2ea1f02908be077669d26907"
+    url = "https://truefx-data.s3.amazonaws.com/USDCAD-2016-01.tar.gz"
+
+[USDCAD-2016-02]
+git-tree-sha1 = "18f8a3f7560da77e6320e330b7a37dd0732a7816"
+lazy = true
+
+    [[USDCAD-2016-02.download]]
+    sha256 = "de00a4681a0c537f7b1a76094abca2453ce77a2c742dd8b89143fbe7bd7309d7"
+    url = "https://truefx-data.s3.amazonaws.com/USDCAD-2016-02.tar.gz"
+
+[USDCAD-2016-03]
+git-tree-sha1 = "c70dca5687279219206cefb211106c1042d37054"
+lazy = true
+
+    [[USDCAD-2016-03.download]]
+    sha256 = "8eeb91c6acad3cd4cdf7654d87bf31f594fc8def6393e4d00863c97e3ac417b3"
+    url = "https://truefx-data.s3.amazonaws.com/USDCAD-2016-03.tar.gz"
+
+[USDCAD-2016-04]
+git-tree-sha1 = "0ef49790fa381988ab44f89a14a1ff47d1c05529"
+lazy = true
+
+    [[USDCAD-2016-04.download]]
+    sha256 = "a5d4aef58fa2e888cb023b832be26a2885db34888c038bc4abbfae6de308cb33"
+    url = "https://truefx-data.s3.amazonaws.com/USDCAD-2016-04.tar.gz"
+
+[USDCAD-2016-05]
+git-tree-sha1 = "f4def27570b63930498120bca5770a9133604fc4"
+lazy = true
+
+    [[USDCAD-2016-05.download]]
+    sha256 = "75f250a67d4ec9941151006b31e8074f161193074cc641218ae9497dad97d1a7"
+    url = "https://truefx-data.s3.amazonaws.com/USDCAD-2016-05.tar.gz"
+
+[USDCAD-2016-06]
+git-tree-sha1 = "c3dc031af8fc8d7bdac16b96713139109cc0bf4b"
+lazy = true
+
+    [[USDCAD-2016-06.download]]
+    sha256 = "991806ce21e6dd3206b0a4897c7c387f1c455ca730f81da064ee46b2ff0043ee"
+    url = "https://truefx-data.s3.amazonaws.com/USDCAD-2016-06.tar.gz"
+
+[USDCAD-2016-07]
+git-tree-sha1 = "41f9887ad7b98d2e476e8cf1776f1f65a7673f30"
+lazy = true
+
+    [[USDCAD-2016-07.download]]
+    sha256 = "0a358a0e0b8eab40c5db93698b52eca4685e41f128e190ebc715ac076bd12746"
+    url = "https://truefx-data.s3.amazonaws.com/USDCAD-2016-07.tar.gz"
+
+[USDCAD-2016-08]
+git-tree-sha1 = "a812b848d6d355d8eda6d37840ccd1a0e3dde418"
+lazy = true
+
+    [[USDCAD-2016-08.download]]
+    sha256 = "94d75518f705389de102aa6e8ecd91f18ac48f715d743eb3c1c1c22bbd8aac88"
+    url = "https://truefx-data.s3.amazonaws.com/USDCAD-2016-08.tar.gz"
+
+[USDCAD-2016-09]
+git-tree-sha1 = "a96cb50de17a3c843b395f6fe69ba2b15679857f"
+lazy = true
+
+    [[USDCAD-2016-09.download]]
+    sha256 = "ac7f6fb3ef122979aa6b6d627181210f1d7a444a6bf84280469909cbf722a716"
+    url = "https://truefx-data.s3.amazonaws.com/USDCAD-2016-09.tar.gz"
+
+[USDCAD-2016-10]
+git-tree-sha1 = "f747508e74e72d24869dbc8e07b560ee7cec7eb3"
+lazy = true
+
+    [[USDCAD-2016-10.download]]
+    sha256 = "97bfceca7780f701e8069a0bc3e4ae9c343e2e7812ebbeda8c2a1c5470dbcb89"
+    url = "https://truefx-data.s3.amazonaws.com/USDCAD-2016-10.tar.gz"
+
+[USDCAD-2016-11]
+git-tree-sha1 = "baeda861eee11198ca47a18a24b618aab35d3596"
+lazy = true
+
+    [[USDCAD-2016-11.download]]
+    sha256 = "3f6152d17991bc03a72b50abeddc0a66d85f5a4601ddf245af845a68a4c1cfb8"
+    url = "https://truefx-data.s3.amazonaws.com/USDCAD-2016-11.tar.gz"
+
+[USDCAD-2016-12]
+git-tree-sha1 = "92c9defbc071b1d88c34afe7e890c4452cfae9be"
+lazy = true
+
+    [[USDCAD-2016-12.download]]
+    sha256 = "093c30f284133ca129c7a86d3b2199b42b3d5ad3992a055a580e5438d91a5b21"
+    url = "https://truefx-data.s3.amazonaws.com/USDCAD-2016-12.tar.gz"
+
+[USDCHF-2016-01]
+git-tree-sha1 = "232992f857e58e0eb827ec41a7598aa02f7cfa51"
+lazy = true
+
+    [[USDCHF-2016-01.download]]
+    sha256 = "6b4b38a0f577a7035a92e32b64065c1410ad3210860093ed1cf758c9a737890e"
+    url = "https://truefx-data.s3.amazonaws.com/USDCHF-2016-01.tar.gz"
+
+[USDCHF-2016-02]
+git-tree-sha1 = "1065ae48f92a927cf233d420bde8e42b11cfd033"
+lazy = true
+
+    [[USDCHF-2016-02.download]]
+    sha256 = "44b3c93227d78314410f7759be5862db50d3718ace75c4a00712081458aa9134"
+    url = "https://truefx-data.s3.amazonaws.com/USDCHF-2016-02.tar.gz"
+
+[USDCHF-2016-03]
+git-tree-sha1 = "dd23a4c23196e87d221e3aa1f27d36e4d73e0564"
+lazy = true
+
+    [[USDCHF-2016-03.download]]
+    sha256 = "64affc1e4efebd718b3f793eac264e157bf29b2f417b8a6b750b0ba868f94c10"
+    url = "https://truefx-data.s3.amazonaws.com/USDCHF-2016-03.tar.gz"
+
+[USDCHF-2016-04]
+git-tree-sha1 = "b6404dbb198291161271fdf7c15c5a158eb88a80"
+lazy = true
+
+    [[USDCHF-2016-04.download]]
+    sha256 = "77ee726e5bfbba589202d15486ad8d7b419c05e62d473025abea3591ed88d0ec"
+    url = "https://truefx-data.s3.amazonaws.com/USDCHF-2016-04.tar.gz"
+
+[USDCHF-2016-05]
+git-tree-sha1 = "3158dbdeb40fec5abb2c83150f0c66a61adfd3f8"
+lazy = true
+
+    [[USDCHF-2016-05.download]]
+    sha256 = "c64bb7965f42518e12da20586821c1a9199ffd55a1f5501b719836dc63144fa0"
+    url = "https://truefx-data.s3.amazonaws.com/USDCHF-2016-05.tar.gz"
+
+[USDCHF-2016-06]
+git-tree-sha1 = "af20a5ae5b44e362af1062902c5142b97e148d2a"
+lazy = true
+
+    [[USDCHF-2016-06.download]]
+    sha256 = "92e18511a0b9fcd27de806ac0cb9b4ddc250e26c3fff360ced99989438795c1f"
+    url = "https://truefx-data.s3.amazonaws.com/USDCHF-2016-06.tar.gz"
+
+[USDCHF-2016-07]
+git-tree-sha1 = "e0837f0bf764b57ec9bcd6a5f6b52aa0a5f2c35e"
+lazy = true
+
+    [[USDCHF-2016-07.download]]
+    sha256 = "94e3ba178bdf5ee561fe64fcb0f9a9ceb13d4d0372441bd78ea04f67ef6c8556"
+    url = "https://truefx-data.s3.amazonaws.com/USDCHF-2016-07.tar.gz"
+
+[USDCHF-2016-08]
+git-tree-sha1 = "ab1c46a3c42fc080baaf7fdac5464a4df1c8be91"
+lazy = true
+
+    [[USDCHF-2016-08.download]]
+    sha256 = "eb529f172c1acabd8872aa8e3e11e0f0c344a5cc4aa9f834c9375040ff36982c"
+    url = "https://truefx-data.s3.amazonaws.com/USDCHF-2016-08.tar.gz"
+
+[USDCHF-2016-09]
+git-tree-sha1 = "7635193d3e7768837894030c2e2d53215ea46e13"
+lazy = true
+
+    [[USDCHF-2016-09.download]]
+    sha256 = "38f0671c5c2a1fe186dc3c92d18f1b91c125c2d454aa46ace8e36a411184b7dc"
+    url = "https://truefx-data.s3.amazonaws.com/USDCHF-2016-09.tar.gz"
+
+[USDCHF-2016-10]
+git-tree-sha1 = "f0e412dc98bc401c2a6548fb99ea101b97753eac"
+lazy = true
+
+    [[USDCHF-2016-10.download]]
+    sha256 = "c1fed99110cdd73c8028c48db8ee467dec2778c6bce57eb14b6fa8e5eff21886"
+    url = "https://truefx-data.s3.amazonaws.com/USDCHF-2016-10.tar.gz"
+
+[USDCHF-2016-11]
+git-tree-sha1 = "431664b27726c2cc19afc45396c211dc04ac105b"
+lazy = true
+
+    [[USDCHF-2016-11.download]]
+    sha256 = "c30df69ea50f4e081d281dbbf7a11cdad323f363e2749fd8332dd3d58a56506f"
+    url = "https://truefx-data.s3.amazonaws.com/USDCHF-2016-11.tar.gz"
+
+[USDCHF-2016-12]
+git-tree-sha1 = "cfb66a7e0d1d2e4ecd274f4022206078d3d3c742"
+lazy = true
+
+    [[USDCHF-2016-12.download]]
+    sha256 = "797259e4f4dfc166b7a1c7012e33975f18bfe46a909d3a66aebf57b9c9d8e69b"
+    url = "https://truefx-data.s3.amazonaws.com/USDCHF-2016-12.tar.gz"
+
+[USDJPY-2016-01]
+git-tree-sha1 = "e8f3e2e934cb52efc9468876a20bb641ca9126f8"
+lazy = true
+
+    [[USDJPY-2016-01.download]]
+    sha256 = "55768dd3cf92c7a0e1d7290a40d96cf73126f8c6a1648f11a93dfaa0f396c1a9"
+    url = "https://truefx-data.s3.amazonaws.com/USDJPY-2016-01.tar.gz"
+
+[USDJPY-2016-02]
+git-tree-sha1 = "10150c66d2b11da2cacbc08fdb8b95c2d67d2998"
+lazy = true
+
+    [[USDJPY-2016-02.download]]
+    sha256 = "3ec2099501c2024c91e1d8894f29d163ebd003409110fcde90f5c708866487ba"
+    url = "https://truefx-data.s3.amazonaws.com/USDJPY-2016-02.tar.gz"
+
+[USDJPY-2016-03]
+git-tree-sha1 = "d9418612b3aa9b9948f38d56e8f79f518eb676b2"
+lazy = true
+
+    [[USDJPY-2016-03.download]]
+    sha256 = "f2dfeaff50a49f0f13aa6b80bca9358e2e9ea549d7e17c62c18d6768477525bb"
+    url = "https://truefx-data.s3.amazonaws.com/USDJPY-2016-03.tar.gz"
+
+[USDJPY-2016-04]
+git-tree-sha1 = "a46403f665e218815c946271acff5f5e329ff699"
+lazy = true
+
+    [[USDJPY-2016-04.download]]
+    sha256 = "74632f5db9daa4d64110a79f76ef4f73923ed7c9d728420f61e461e243c8d63b"
+    url = "https://truefx-data.s3.amazonaws.com/USDJPY-2016-04.tar.gz"
+
+[USDJPY-2016-05]
+git-tree-sha1 = "11d690c63a73724533f731a81e22c0838ce28f34"
+lazy = true
+
+    [[USDJPY-2016-05.download]]
+    sha256 = "ec104786c4efc0dc6f9c1e3c6afb23a9bf94bf54e1f83dc71039c60aba6b18c3"
+    url = "https://truefx-data.s3.amazonaws.com/USDJPY-2016-05.tar.gz"
+
+[USDJPY-2016-06]
+git-tree-sha1 = "b49ae16c681dacc9e24d06cc46b6341833a091a4"
+lazy = true
+
+    [[USDJPY-2016-06.download]]
+    sha256 = "794e34cf75efb423524a0e97a6777a9252e4e2acaec030909088e96427e8d808"
+    url = "https://truefx-data.s3.amazonaws.com/USDJPY-2016-06.tar.gz"
+
+[USDJPY-2016-07]
+git-tree-sha1 = "934481f4894cceaf688fd4ab10401f374b86bb90"
+lazy = true
+
+    [[USDJPY-2016-07.download]]
+    sha256 = "14de63d0ff9c6d8cd6c1016c5e9d72994741fe5528bac8750b060de682424d12"
+    url = "https://truefx-data.s3.amazonaws.com/USDJPY-2016-07.tar.gz"
+
+[USDJPY-2016-08]
+git-tree-sha1 = "7fc127482303ee40c411bbe3be3d889538c71798"
+lazy = true
+
+    [[USDJPY-2016-08.download]]
+    sha256 = "5c7cb60fe33b499a014551bbb8e1062451a300bac3c6afa0088a9ed63a5767c8"
+    url = "https://truefx-data.s3.amazonaws.com/USDJPY-2016-08.tar.gz"
+
+[USDJPY-2016-09]
+git-tree-sha1 = "8c10de56cd9a53f874ce95e6c2c8ec7456f9547c"
+lazy = true
+
+    [[USDJPY-2016-09.download]]
+    sha256 = "be45f82f32547f87d25e45416f0d05fccda3f294d5696ee7790362203602d616"
+    url = "https://truefx-data.s3.amazonaws.com/USDJPY-2016-09.tar.gz"
+
+[USDJPY-2016-10]
+git-tree-sha1 = "115861bcc8876fb02a76a413f82285e14b5a259f"
+lazy = true
+
+    [[USDJPY-2016-10.download]]
+    sha256 = "e83e031ca5ceb718fe081d50480c46b51b1cd6533a3edb5fce23ecd773e71edf"
+    url = "https://truefx-data.s3.amazonaws.com/USDJPY-2016-10.tar.gz"
+
+[USDJPY-2016-11]
+git-tree-sha1 = "a1aa219d7b4df78c1cf40ac79e6abc138f4ff491"
+lazy = true
+
+    [[USDJPY-2016-11.download]]
+    sha256 = "b6a676faaa8ddb68cf8821e46e872f271a090d331670859446f51bb6d6805c9d"
+    url = "https://truefx-data.s3.amazonaws.com/USDJPY-2016-11.tar.gz"
+
+[USDJPY-2016-12]
+git-tree-sha1 = "1d6b4ce7f9c2cf2e9b358f76f3831b7b63af892a"
+lazy = true
+
+    [[USDJPY-2016-12.download]]
+    sha256 = "6673e9e5b181cab4a0d598b1086ec64278ff17c0234babf3c882585abde45c4f"
+    url = "https://truefx-data.s3.amazonaws.com/USDJPY-2016-12.tar.gz"
